@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Personal\\Unreal\\GameDevTV\\Multiplayer\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatforms.Build.cs",
+		"E:\\Personal\\Unreal\\GameDevTV\\Multiplayer\\PuzzlePlatforms\\Source\\PuzzlePlatforms.Target.cs",
+		"E:\\Personal\\Unreal\\GameDevTV\\Multiplayer\\PuzzlePlatforms\\Source\\PuzzlePlatformsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
